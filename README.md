@@ -1,6 +1,6 @@
 # Let's Connect
-
-MERN based Social Media Application
+![Platform - Android, IOS and Web](https://img.shields.io/badge/platform-Android%20%7C%20IOS%20%7C%20Web-green.svg) 
+  MERN based Social Media Application
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -67,6 +67,14 @@ npm start
 
 
 
+## Author
+
+### *Shivam Prakash*
+*I am a passionate Full Stack Developer exploring various technologies and domains*  
+
+For more exciting updates follow me,
+
+<a href="https://www.linkedin.com/in/shivam-prakash-2b3614193/" target="_blank"><img src="https://github.com/yuvraj24/LiveSmashBar/blob/master/images/linkedin.png" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/shivam12prakash" target="_blank"><img src="https://github.com/yuvraj24/LiveSmashBar/blob/master/images/github.png" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
