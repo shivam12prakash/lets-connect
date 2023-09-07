@@ -5,6 +5,25 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Let's Connect, a social media application based on MERN Stack. The key featues of this application are:
+Register,Login,Home Page with all the Posts,Navigation Bar with Icons, User's Page, Upload a Post, Like and Comments, FriendList, Advertisement Component, Search Bar enhanced with Caching, Light and Dark mode feature and a lot more...
+
+
+The application consists of Resuable Registration and Login components which validates the user based on JSON WebToken generated and allows user to register and Login.
+
+
+After Successfull Login the User can able to see all the post and various components like User's Info and Social Media Info, Advertisement Component,FriendList and existing posts.
+
+User can upload a Post with description and all the user's post are rendered can available to user on User's Profile Page. The uploaded post is now visible along with all the posts present.
+
+Thhe user can like any post and can read all the comments related to the post.
+
+The Search Bar allows an easy search for searching any existing user which is possible due to Redis cachinhg.
+
+Based on User's mode the modes can be swithed to either Dark or Light.
+
+The application is fully responsive and adaptaptable according to screens.
+
 
 <img width="934" alt="1" src="https://github.com/shivam12prakash/lets-connect/assets/65006707/c04c07eb-b65c-4eb9-b440-b84c464f861e">
 <img width="934" alt="5" src="https://github.com/shivam12prakash/lets-connect/assets/65006707/312a0965-295b-4dd3-aa72-5c674bce2326">
@@ -16,13 +35,18 @@
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section.
-
 * ![MongoDB]
 * ![Express.js]
 * ![React.js]
 * ![Node.js]
-
+* Redux Toolkit
+* Redis
+* Redux Persist
+* Formik
+* Yup
+* Dropzone
+* Multer
+* JsonWebToken
 
 <!-- GETTING STARTED -->
 ## Getting Started With the Project
@@ -65,7 +89,8 @@ npm start
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-
+* [MongoDB-docs](https://www.mongodb.com/docs/)
+* [ReduxToolkit-docs](https://redux-toolkit.js.org/tutorials/overview)
 
 ## Author
 
