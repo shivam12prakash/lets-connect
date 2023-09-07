@@ -12,7 +12,7 @@ Register,Login,Home Page with all the Posts,Navigation Bar with Icons, User's Pa
 The application consists of Resuable Registration and Login components which validates the user based on JSON WebToken generated and allows user to register and Login.
 
 
-After Successfull Login the User can able to see all the post and various components like User's Info and Social Media Info, Advertisement Component,FriendList and existing posts.
+After Successful Login the User can able to see all the post and various components like User's Info and Social Media Info, Advertisement Component,FriendList and existing posts.
 
 User can upload a Post with description and all the user's post are rendered can available to user on User's Profile Page. The uploaded post is now visible along with all the posts present.
 
