@@ -84,6 +84,11 @@ cd lets-connect
 cd client
 npm start
 ```
+### Todo
+
+- To introduce Real Time Notification feature using WebSockets
+- Upgrade to Typescript
+- Write Test using Jest 
 
 
 <!-- ACKNOWLEDGMENTS -->
