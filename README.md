@@ -86,7 +86,7 @@ npm start
 ```
 ### Todo
 
-- To introduce Real Time Notification feature using WebSockets
+- Introduce Real Time Notification feature using WebSockets
 - Upgrade to Typescript
 - Write Test using Jest 
 
