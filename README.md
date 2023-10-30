@@ -16,7 +16,7 @@ After Successful Login the User can able to see all the post and various compone
 
 User can upload a Post with description and all the user's post are rendered can available to user on User's Profile Page. The uploaded post is now visible along with all the posts present.
 
-Thhe user can like any post and can read all the comments related to the post.
+The user can like any post and can read all the comments related to the post.
 
 The Search Bar allows an easy search for searching any existing user which is possible due to Redis cachinhg.
 
